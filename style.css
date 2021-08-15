@@ -1,0 +1,58 @@
+/* body */
+body {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.main-content {
+  display: grid;
+  grid-template-columns: 1fr 5fr 1fr;
+}
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#header {
+  display: flex;
+  justify-content: center;
+}
+img {
+  width: 100px;
+}
+.biggerjohny {
+  width: 120px;
+}
+.w3-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.table-title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100px;
+}
+.word-table-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+.data-table-container {
+  background-color: aliceblue;
+  color: black;
+  font-size: 1.1rem;
+}
+
+/* .pic {
+  width: 100px;
+  height: 100px;
+} */
