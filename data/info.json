@@ -78,5 +78,85 @@
         "sentence": "Since the book had been through no fewer than six proof runs, the staff was shocked to see such a patent spelling mistake remaining, right in the middle of the front cover!",
         "date": "16-Nov-2021",
         "wordCount": 10
+    },
+    {
+        "id": 844,
+        "firstName": "Becoming",
+        "lastName": "Suitable",
+        "sentence": "Her dress was becoming and made her look even more beautiful.",
+        "date": "18-Nov-2021",
+        "wordCount": 11
+    },
+    {
+        "id": 852,
+        "firstName": "Apathetic",
+        "lastName": "uncaring",
+        "sentence": "Mr. Thompson was so talented at teaching math that even normally apathetic students took interest.",
+        "date": "18-Nov-2021",
+        "wordCount": 12
+    },
+    {
+        "id": 384,
+        "firstName": "Truculence",
+        "lastName": "Tendency to fight",
+        "sentence": "When the boss confronted Aaron about his earlier remarks, Aaron responded with utter truculence, simply throwing a glass of water in the boss' face and walking away.",
+        "date": "18-Nov-2021",
+        "wordCount": 13
+    },
+    {
+        "id": 93,
+        "firstName": "Perpetuate",
+        "lastName": "make happen indefinitely",
+        "sentence": "If you do not let him do things for himself you are merely perpetuating bad habits,  that will be harder to break in future.",
+        "date": "18-Nov-2021",
+        "wordCount": 14
+    },
+    {
+        "id": 645,
+        "firstName": "Apprehension",
+        "lastName": "Anxiety",
+        "sentence": "Test day can be one of pure apprehension, as many students worry about their test scores.",
+        "date": "18-Nov-2021",
+        "wordCount": 15
+    },
+    {
+        "id": 121,
+        "firstName": "impregnable",
+        "lastName": "indestructible",
+        "sentence": "As a child, Amy would build pillow castles and pretend they were impregnable fortresses.",
+        "date": "18-Nov-2021",
+        "wordCount": 16
+    },
+    {
+        "id": 249,
+        "firstName": "Opulence",
+        "lastName": "Wealth",
+        "sentence": "Russian oligarchs are famous for their opulence, living in fancy homes and dining on expensive caviar.",
+        "date": "18-Nov-2021",
+        "wordCount": 17
+    },
+    {
+        "id": 869,
+        "firstName": "Cryptic",
+        "lastName": "Mysterious",
+        "sentence": "Since Sarah did not want her husband to guess the Christmas present she had brought him, she only answered cryptically when he would ask her questions about it.",
+        "date": "18-Nov-2021",
+        "wordCount": 18
+    },
+    {
+        "id": 125,
+        "firstName": "Antedate",
+        "lastName": "Precede",
+        "sentence": "Harry was so unknowledgeable that he was unware that the Egyptian pharaohs antedated the American revolution.",
+        "date": "18-Nov-2021",
+        "wordCount": 19
+    },
+    {
+        "id": 642,
+        "firstName": "Hubris",
+        "lastName": "Excessive Pride",
+        "sentence": "Bill Clinton was criticized for his hubris, since he believed that he could get away with anything once in the White House.",
+        "date": "18-Nov-2021",
+        "wordCount": 20
     }
 ]
