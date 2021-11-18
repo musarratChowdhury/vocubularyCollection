@@ -6,5 +6,85 @@
         "sentence": "The entire audience erupted in shouts and curses, decrying the penalty card issues by the referee.",
         "date": "16-Aug-2021",
         "wordCount": 1
+    },
+    {
+        "id": 956,
+        "firstName": "reluctant",
+        "lastName": "loath",
+        "sentence": "I was reluctant to leave the concert before my favourite band finished playing.",
+        "date": "5-Sep-2021",
+        "wordCount": 2
+    },
+    {
+        "id": 770,
+        "firstName": "proponent",
+        "lastName": "supporter",
+        "sentence": "Ironically , the leading proponent of flat-earth Theory flies all over the world in an effort to win more adherents.",
+        "date": "5-Sep-2021",
+        "wordCount": 3
+    },
+    {
+        "id": 39,
+        "firstName": "Derogative ",
+        "lastName": "Insulting",
+        "sentence": "Never Before have we seen a debate between two political candidates that was so derogative and filthy.",
+        "date": "5-Sep-2021",
+        "wordCount": 4
+    },
+    {
+        "id": 898,
+        "firstName": "Obstinate",
+        "lastName": "Stubborn",
+        "sentence": "The coach suggested improvements Sarah might make on the balance beam, but she ramained obstinate unwilling to modify any of the habits that made her successful in the past.",
+        "date": "5-Sep-2021",
+        "wordCount": 5
+    },
+    {
+        "id": 421,
+        "firstName": "Inviolable",
+        "lastName": "Sacred",
+        "sentence": "To many the grass at Wimbledon is inviolable and only greater tennis players are able to enjoy the game there.",
+        "date": "5-Sep-2021",
+        "wordCount": 7
+    },
+    {
+        "id": 254,
+        "firstName": "Morose",
+        "lastName": "Gloomy",
+        "sentence": "After Stanley found out he was no longer able to go on vacation with his friends, he sat in his room morosely.",
+        "date": "5-Sep-2021",
+        "wordCount": 7
+    },
+    {
+        "id": 393,
+        "firstName": "Conducive",
+        "lastName": "Helpful",
+        "sentence": "Studying in a quite room is conducive to learning ; studying in a noisy environment makes learning more difficult.",
+        "date": "5-Sep-2021",
+        "wordCount": 8
+    },
+    {
+        "id": 613,
+        "firstName": "Desecrate",
+        "lastName": "ruin something holy",
+        "sentence": "After desecrating the pharaoh's tomb, the archaeologist soon fell victim to a horrible illness.",
+        "date": "8-Sep-2021",
+        "wordCount": 9
+    },
+    {
+        "id": 731,
+        "firstName": "Expunge",
+        "lastName": "erase",
+        "sentence": "When i turned 18 , all of the shoplifting and jaywalking charges were expunged from my criminal record.",
+        "date": "8-Sep-2021",
+        "wordCount": 10
+    },
+    {
+        "id": 117,
+        "firstName": "Despot",
+        "lastName": "tyrant",
+        "sentence": "Though emperor Claudius was regarded as a fair minded leader; his son Nero was an absolute despot.",
+        "date": "8-Sep-2021",
+        "wordCount": 11
     }
 ]
