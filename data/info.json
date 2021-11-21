@@ -1,243 +1,402 @@
 [
-  {
-    "id": 763,
-    "firstName": "Decry",
-    "lastName": "Speak Out Against",
-    "sentence": "The entire audience erupted in shouts and curses, decrying the penalty card issues by the referee.",
-    "date": "16-Aug-2021",
-    "wordCount": 1
-  },
-  {
-    "id": 465,
-    "firstName": "Maxim",
-    "lastName": "short saying",
-    "sentence": "Johnson initially suggests that the secret to business can be summarized in a single maxim but then requires a 300-page book to explain exactly what he means.",
-    "date": "16-Nov-2021",
-    "wordCount": 2
-  },
-  {
-    "id": 201,
-    "firstName": "Eminent",
-    "lastName": "Highly Respected",
-    "sentence": "Shakespeare is an eminent author in the English language, but I find his writing uninteresting and melodramatic.",
-    "date": "16-Nov-2021",
-    "wordCount": 3
-  },
-  {
-    "id": 289,
-    "firstName": "Imponderable",
-    "lastName": "difficult to assess",
-    "sentence": "According to many lawmakers, the huge variety of factors affecting society make devising an efficient healthcare system an imponderable task.",
-    "date": "16-Nov-2021",
-    "wordCount": 4
-  },
-  {
-    "id": 441,
-    "firstName": "Retiring",
-    "lastName": "Shy",
-    "sentence": "Nelson was always the first to leave soirees - rather than mill about with \"fashionable\" folk, he was retiring, and preferred the solitude of his garret.",
-    "date": "16-Nov-2021",
-    "wordCount": 5
-  },
-  {
-    "id": 679,
-    "firstName": "Mellifluous",
-    "lastName": "Sweet sounding",
-    "sentence": "Chelsea's grandmother thought Franz Schubert's music to be the most mellifluous ever written.",
-    "date": "16-Nov-2021",
-    "wordCount": 6
-  },
-  {
-    "id": 931,
-    "firstName": "Boon",
-    "lastName": "Helpful thing",
-    "sentence": "Modern Technology has been a boon to the travel industry.",
-    "date": "16-Nov-2021",
-    "wordCount": 7
-  },
-  {
-    "id": 216,
-    "firstName": "Officious",
-    "lastName": "Meddlesome",
-    "sentence": "The professor had trouble concentrating on her new theorem, because her officious secretary would barge in frequently reminding her of some trivial detail involving departmental paperwork.",
-    "date": "16-Nov-2021",
-    "wordCount": 8
-  },
-  {
-    "id": 7,
-    "firstName": "Disseminate",
-    "lastName": "Spread",
-    "sentence": "Before the effects of anesthesia were disseminated, patients had to experience the full pain of a surgery.",
-    "date": "16-Nov-2021",
-    "wordCount": 9
-  },
-  {
-    "id": 622,
-    "firstName": "patent",
-    "lastName": "glaringly obvious",
-    "sentence": "Since the book had been through no fewer than six proof runs, the staff was shocked to see such a patent spelling mistake remaining, right in the middle of the front cover!",
-    "date": "16-Nov-2021",
-    "wordCount": 10
-  },
-  {
-    "id": 844,
-    "firstName": "Becoming",
-    "lastName": "Suitable",
-    "sentence": "Her dress was becoming and made her look even more beautiful.",
-    "date": "18-Nov-2021",
-    "wordCount": 11
-  },
-  {
-    "id": 852,
-    "firstName": "Apathetic",
-    "lastName": "uncaring",
-    "sentence": "Mr. Thompson was so talented at teaching math that even normally apathetic students took interest.",
-    "date": "18-Nov-2021",
-    "wordCount": 12
-  },
-  {
-    "id": 384,
-    "firstName": "Truculence",
-    "lastName": "Tendency to fight",
-    "sentence": "When the boss confronted Aaron about his earlier remarks, Aaron responded with utter truculence, simply throwing a glass of water in the boss' face and walking away.",
-    "date": "18-Nov-2021",
-    "wordCount": 13
-  },
-  {
-    "id": 93,
-    "firstName": "Perpetuate",
-    "lastName": "make happen indefinitely",
-    "sentence": "If you do not let him do things for himself you are merely perpetuating bad habits,  that will be harder to break in future.",
-    "date": "18-Nov-2021",
-    "wordCount": 14
-  },
-  {
-    "id": 645,
-    "firstName": "Apprehension",
-    "lastName": "Anxiety",
-    "sentence": "Test day can be one of pure apprehension, as many students worry about their test scores.",
-    "date": "18-Nov-2021",
-    "wordCount": 15
-  },
-  {
-    "id": 121,
-    "firstName": "impregnable",
-    "lastName": "indestructible",
-    "sentence": "As a child, Amy would build pillow castles and pretend they were impregnable fortresses.",
-    "date": "18-Nov-2021",
-    "wordCount": 16
-  },
-  {
-    "id": 249,
-    "firstName": "Opulence",
-    "lastName": "Wealth",
-    "sentence": "Russian oligarchs are famous for their opulence, living in fancy homes and dining on expensive caviar.",
-    "date": "18-Nov-2021",
-    "wordCount": 17
-  },
-  {
-    "id": 869,
-    "firstName": "Cryptic",
-    "lastName": "Mysterious",
-    "sentence": "Since Sarah did not want her husband to guess the Christmas present she had brought him, she only answered cryptically when he would ask her questions about it.",
-    "date": "18-Nov-2021",
-    "wordCount": 18
-  },
-  {
-    "id": 125,
-    "firstName": "Antedate",
-    "lastName": "Precede",
-    "sentence": "Harry was so unknowledgeable that he was unware that the Egyptian pharaohs antedated the American revolution.",
-    "date": "18-Nov-2021",
-    "wordCount": 19
-  },
-  {
-    "id": 642,
-    "firstName": "Hubris",
-    "lastName": "Excessive Pride",
-    "sentence": "Bill Clinton was criticized for his hubris, since he believed that he could get away with anything once in the White House.",
-    "date": "18-Nov-2021",
-    "wordCount": 20
-  },
-
-  {
-    "id": 956,
-    "firstName": "reluctant",
-    "lastName": "loath",
-    "sentence": "I was reluctant to leave the concert before my favourite band finished playing.",
-    "date": "5-Sep-2021",
-    "wordCount": 22
-  },
-  {
-    "id": 770,
-    "firstName": "proponent",
-    "lastName": "supporter",
-    "sentence": "Ironically , the leading proponent of flat-earth Theory flies all over the world in an effort to win more adherents.",
-    "date": "5-Sep-2021",
-    "wordCount": 23
-  },
-  {
-    "id": 39,
-    "firstName": "Derogative ",
-    "lastName": "Insulting",
-    "sentence": "Never Before have we seen a debate between two political candidates that was so derogative and filthy.",
-    "date": "5-Sep-2021",
-    "wordCount": 24
-  },
-  {
-    "id": 898,
-    "firstName": "Obstinate",
-    "lastName": "Stubborn",
-    "sentence": "The coach suggested improvements Sarah might make on the balance beam, but she ramained obstinate unwilling to modify any of the habits that made her successful in the past.",
-    "date": "5-Sep-2021",
-    "wordCount": 25
-  },
-  {
-    "id": 421,
-    "firstName": "Inviolable",
-    "lastName": "Sacred",
-    "sentence": "To many the grass at Wimbledon is inviolable and only greater tennis players are able to enjoy the game there.",
-    "date": "5-Sep-2021",
-    "wordCount": 26
-  },
-  {
-    "id": 254,
-    "firstName": "Morose",
-    "lastName": "Gloomy",
-    "sentence": "After Stanley found out he was no longer able to go on vacation with his friends, he sat in his room morosely.",
-    "date": "5-Sep-2021",
-    "wordCount": 27
-  },
-  {
-    "id": 393,
-    "firstName": "Conducive",
-    "lastName": "Helpful",
-    "sentence": "Studying in a quite room is conducive to learning ; studying in a noisy environment makes learning more difficult.",
-    "date": "5-Sep-2021",
-    "wordCount": 28
-  },
-  {
-    "id": 613,
-    "firstName": "Desecrate",
-    "lastName": "ruin something holy",
-    "sentence": "After desecrating the pharaoh's tomb, the archaeologist soon fell victim to a horrible illness.",
-    "date": "8-Sep-2021",
-    "wordCount": 29
-  },
-  {
-    "id": 731,
-    "firstName": "Expunge",
-    "lastName": "erase",
-    "sentence": "When i turned 18 , all of the shoplifting and jaywalking charges were expunged from my criminal record.",
-    "date": "8-Sep-2021",
-    "wordCount": 30
-  },
-  {
-    "id": 117,
-    "firstName": "Despot",
-    "lastName": "tyrant",
-    "sentence": "Though emperor Claudius was regarded as a fair minded leader; his son Nero was an absolute despot.",
-    "date": "8-Sep-2021",
-    "wordCount": 31
-  }
+    {
+        "id": 763,
+        "firstName": "Decry",
+        "lastName": "Speak Out Against",
+        "sentence": "The entire audience erupted in shouts and curses, decrying the penalty card issues by the referee.",
+        "date": "16-Aug-2021",
+        "wordCount": 1
+    },
+    {
+        "id": 465,
+        "firstName": "Maxim",
+        "lastName": "short saying",
+        "sentence": "Johnson initially suggests that the secret to business can be summarized in a single maxim but then requires a 300-page book to explain exactly what he means.",
+        "date": "16-Nov-2021",
+        "wordCount": 2
+    },
+    {
+        "id": 201,
+        "firstName": "Eminent",
+        "lastName": "Highly Respected",
+        "sentence": "Shakespeare is an eminent author in the English language, but I find his writing uninteresting and melodramatic.",
+        "date": "16-Nov-2021",
+        "wordCount": 3
+    },
+    {
+        "id": 289,
+        "firstName": "Imponderable",
+        "lastName": "difficult to assess",
+        "sentence": "According to many lawmakers, the huge variety of factors affecting society make devising an efficient healthcare system an imponderable task.",
+        "date": "16-Nov-2021",
+        "wordCount": 4
+    },
+    {
+        "id": 441,
+        "firstName": "Retiring",
+        "lastName": "Shy",
+        "sentence": "Nelson was always the first to leave soirees - rather than mill about with \"fashionable\" folk, he was retiring, and preferred the solitude of his garret.",
+        "date": "16-Nov-2021",
+        "wordCount": 5
+    },
+    {
+        "id": 679,
+        "firstName": "Mellifluous",
+        "lastName": "Sweet sounding",
+        "sentence": "Chelsea's grandmother thought Franz Schubert's music to be the most mellifluous ever written.",
+        "date": "16-Nov-2021",
+        "wordCount": 6
+    },
+    {
+        "id": 931,
+        "firstName": "Boon",
+        "lastName": "Helpful thing",
+        "sentence": "Modern Technology has been a boon to the travel industry.",
+        "date": "16-Nov-2021",
+        "wordCount": 7
+    },
+    {
+        "id": 216,
+        "firstName": "Officious",
+        "lastName": "Meddlesome",
+        "sentence": "The professor had trouble concentrating on her new theorem, because her officious secretary would barge in frequently reminding her of some trivial detail involving departmental paperwork.",
+        "date": "16-Nov-2021",
+        "wordCount": 8
+    },
+    {
+        "id": 7,
+        "firstName": "Disseminate",
+        "lastName": "Spread",
+        "sentence": "Before the effects of anesthesia were disseminated, patients had to experience the full pain of a surgery.",
+        "date": "16-Nov-2021",
+        "wordCount": 9
+    },
+    {
+        "id": 622,
+        "firstName": "patent",
+        "lastName": "glaringly obvious",
+        "sentence": "Since the book had been through no fewer than six proof runs, the staff was shocked to see such a patent spelling mistake remaining, right in the middle of the front cover!",
+        "date": "16-Nov-2021",
+        "wordCount": 10
+    },
+    {
+        "id": 844,
+        "firstName": "Becoming",
+        "lastName": "Suitable",
+        "sentence": "Her dress was becoming and made her look even more beautiful.",
+        "date": "18-Nov-2021",
+        "wordCount": 11
+    },
+    {
+        "id": 852,
+        "firstName": "Apathetic",
+        "lastName": "uncaring",
+        "sentence": "Mr. Thompson was so talented at teaching math that even normally apathetic students took interest.",
+        "date": "18-Nov-2021",
+        "wordCount": 12
+    },
+    {
+        "id": 384,
+        "firstName": "Truculence",
+        "lastName": "Tendency to fight",
+        "sentence": "When the boss confronted Aaron about his earlier remarks, Aaron responded with utter truculence, simply throwing a glass of water in the boss' face and walking away.",
+        "date": "18-Nov-2021",
+        "wordCount": 13
+    },
+    {
+        "id": 93,
+        "firstName": "Perpetuate",
+        "lastName": "make happen indefinitely",
+        "sentence": "If you do not let him do things for himself you are merely perpetuating bad habits,  that will be harder to break in future.",
+        "date": "18-Nov-2021",
+        "wordCount": 14
+    },
+    {
+        "id": 645,
+        "firstName": "Apprehension",
+        "lastName": "Anxiety",
+        "sentence": "Test day can be one of pure apprehension, as many students worry about their test scores.",
+        "date": "18-Nov-2021",
+        "wordCount": 15
+    },
+    {
+        "id": 121,
+        "firstName": "impregnable",
+        "lastName": "indestructible",
+        "sentence": "As a child, Amy would build pillow castles and pretend they were impregnable fortresses.",
+        "date": "18-Nov-2021",
+        "wordCount": 16
+    },
+    {
+        "id": 249,
+        "firstName": "Opulence",
+        "lastName": "Wealth",
+        "sentence": "Russian oligarchs are famous for their opulence, living in fancy homes and dining on expensive caviar.",
+        "date": "18-Nov-2021",
+        "wordCount": 17
+    },
+    {
+        "id": 869,
+        "firstName": "Cryptic",
+        "lastName": "Mysterious",
+        "sentence": "Since Sarah did not want her husband to guess the Christmas present she had brought him, she only answered cryptically when he would ask her questions about it.",
+        "date": "18-Nov-2021",
+        "wordCount": 18
+    },
+    {
+        "id": 125,
+        "firstName": "Antedate",
+        "lastName": "Precede",
+        "sentence": "Harry was so unknowledgeable that he was unware that the Egyptian pharaohs antedated the American revolution.",
+        "date": "18-Nov-2021",
+        "wordCount": 19
+    },
+    {
+        "id": 642,
+        "firstName": "Hubris",
+        "lastName": "Excessive Pride",
+        "sentence": "Bill Clinton was criticized for his hubris, since he believed that he could get away with anything once in the White House.",
+        "date": "18-Nov-2021",
+        "wordCount": 20
+    },
+    {
+        "id": 956,
+        "firstName": "reluctant",
+        "lastName": "loath",
+        "sentence": "I was reluctant to leave the concert before my favourite band finished playing.",
+        "date": "5-Sep-2021",
+        "wordCount": 22
+    },
+    {
+        "id": 770,
+        "firstName": "proponent",
+        "lastName": "supporter",
+        "sentence": "Ironically , the leading proponent of flat-earth Theory flies all over the world in an effort to win more adherents.",
+        "date": "5-Sep-2021",
+        "wordCount": 23
+    },
+    {
+        "id": 39,
+        "firstName": "Derogative ",
+        "lastName": "Insulting",
+        "sentence": "Never Before have we seen a debate between two political candidates that was so derogative and filthy.",
+        "date": "5-Sep-2021",
+        "wordCount": 24
+    },
+    {
+        "id": 898,
+        "firstName": "Obstinate",
+        "lastName": "Stubborn",
+        "sentence": "The coach suggested improvements Sarah might make on the balance beam, but she ramained obstinate unwilling to modify any of the habits that made her successful in the past.",
+        "date": "5-Sep-2021",
+        "wordCount": 25
+    },
+    {
+        "id": 421,
+        "firstName": "Inviolable",
+        "lastName": "Sacred",
+        "sentence": "To many the grass at Wimbledon is inviolable and only greater tennis players are able to enjoy the game there.",
+        "date": "5-Sep-2021",
+        "wordCount": 26
+    },
+    {
+        "id": 254,
+        "firstName": "Morose",
+        "lastName": "Gloomy",
+        "sentence": "After Stanley found out he was no longer able to go on vacation with his friends, he sat in his room morosely.",
+        "date": "5-Sep-2021",
+        "wordCount": 27
+    },
+    {
+        "id": 393,
+        "firstName": "Conducive",
+        "lastName": "Helpful",
+        "sentence": "Studying in a quite room is conducive to learning ; studying in a noisy environment makes learning more difficult.",
+        "date": "5-Sep-2021",
+        "wordCount": 28
+    },
+    {
+        "id": 613,
+        "firstName": "Desecrate",
+        "lastName": "ruin something holy",
+        "sentence": "After desecrating the pharaoh's tomb, the archaeologist soon fell victim to a horrible illness.",
+        "date": "8-Sep-2021",
+        "wordCount": 29
+    },
+    {
+        "id": 731,
+        "firstName": "Expunge",
+        "lastName": "erase",
+        "sentence": "When i turned 18 , all of the shoplifting and jaywalking charges were expunged from my criminal record.",
+        "date": "8-Sep-2021",
+        "wordCount": 30
+    },
+    {
+        "id": 117,
+        "firstName": "Despot",
+        "lastName": "tyrant",
+        "sentence": "Though emperor Claudius was regarded as a fair minded leader; his son Nero was an absolute despot.",
+        "date": "8-Sep-2021",
+        "wordCount": 31
+    },
+    {
+        "id": 463,
+        "firstName": "Ostentatious",
+        "lastName": "Showy",
+        "sentence": "Matt wanted to buy stone lions for front of the house, but Cynthia convinced him that such a display would be too ostentatious for a modest house in an unassuming neighbourhood.",
+        "date": "21-Nov-2021",
+        "wordCount": 31
+    },
+    {
+        "id": 647,
+        "firstName": "Protean",
+        "lastName": "Versatile",
+        "sentence": "Peter Sellers was truly a protean actor --in Doctor Strangelove he played three very different roles: a jingoist general, a sedate President and a deranged scientist.",
+        "date": "21-Nov-2021",
+        "wordCount": 32
+    },
+    {
+        "id": 369,
+        "firstName": "Capricious",
+        "lastName": "Impulsive",
+        "sentence": "Nearly every month our capricious CEO had a new plan to turn the company around, and none of them worked because we never gave them the time they needed to succeed.",
+        "date": "21-Nov-2021",
+        "wordCount": 33
+    },
+    {
+        "id": 850,
+        "firstName": "Indigent",
+        "lastName": "Poor",
+        "sentence": "In the so called third world, many are indigent and only a privileged few have the resources to enjoy material luxuries.",
+        "date": "21-Nov-2021",
+        "wordCount": 34
+    },
+    {
+        "id": 515,
+        "firstName": "phantasmagorical",
+        "lastName": "illusive",
+        "sentence": "Those suffering from malaria fall into a feverish sleep, their world becomes a whirligig of phantasmagoria; if they recover, they are unsure of what actually took place and what was simply a product of their febrile imaginations. ",
+        "date": "21-Nov-2021",
+        "wordCount": 35
+    },
+    {
+        "id": 302,
+        "firstName": "Hedge",
+        "lastName": "Limit a statement",
+        "sentence": "When asked why he had decided to buy millions of shares at the very moment  the tech companies stock soared, the CEO hedged, mentioning something vague about gut instinct.",
+        "date": "21-Nov-2021",
+        "wordCount": 36
+    },
+    {
+        "id": 943,
+        "firstName": "Inanity",
+        "lastName": "Silliness",
+        "sentence": "Bill's Poem was nothing more than a list of impressive sounding words, so there was no point trying to take meaning from the inanity.",
+        "date": "21-Nov-2021",
+        "wordCount": 37
+    },
+    {
+        "id": 672,
+        "firstName": "Impugn ",
+        "lastName": "Call into question",
+        "sentence": "Though many initially tried to impugn Darwin's theory, in scientific circles today, the idea is taken as truth.",
+        "date": "21-Nov-2021",
+        "wordCount": 38
+    },
+    {
+        "id": 978,
+        "firstName": "Incense",
+        "lastName": "Make furious",
+        "sentence": "When Herb bought football tickets for a game on the day of their wedding anniversary, Jill was incensed.",
+        "date": "21-Nov-2021",
+        "wordCount": 39
+    },
+    {
+        "id": 949,
+        "firstName": "Brusquely",
+        "lastName": "Bluntly",
+        "sentence": "Not one for social pleasantries, the Chief of Staff would brusquely ask his subordinates anything he wanted, even coffee.",
+        "date": "21-Nov-2021",
+        "wordCount": 40
+    },
+    {
+        "id": 859,
+        "firstName": "Snide",
+        "lastName": "Indirectly Mocking",
+        "sentence": "The chairman interpreted Taylor's question about promotions as a snide remark , but in all innocence Taylor was trying to figure out the company's process.",
+        "date": "21-Nov-2021",
+        "wordCount": 41
+    },
+    {
+        "id": 240,
+        "firstName": "Callow",
+        "lastName": "Inexperienced",
+        "sentence": "Both Los Angeles and New York are known for callow out-of-towners hoping to make it big",
+        "date": "21-Nov-2021",
+        "wordCount": 42
+    },
+    {
+        "id": 292,
+        "firstName": "Snub",
+        "lastName": "Reject Bluntly",
+        "sentence": "Wheeler was completely qualified for the committee, but the board snubbed him, choosing an obviously lesser qualified candidate instead.",
+        "date": "21-Nov-2021",
+        "wordCount": 43
+    },
+    {
+        "id": 330,
+        "firstName": "Respite",
+        "lastName": "Pause from work",
+        "sentence": "Every afternoon the small company has respite in which workers play football or board games.",
+        "date": "21-Nov-2021",
+        "wordCount": 44
+    },
+    {
+        "id": 890,
+        "firstName": "Percipient",
+        "lastName": "perceptive",
+        "sentence": "Even the  most percipient editor will make an occasional error when proofreading.",
+        "date": "21-Nov-2021",
+        "wordCount": 45
+    },
+    {
+        "id": 160,
+        "firstName": "Stalwart",
+        "lastName": "Dependable",
+        "sentence": "Despite all the criticism directed at the President during this scandal, Lisa has reminded his stalwart supporter.",
+        "date": "21-Nov-2021",
+        "wordCount": 46
+    },
+    {
+        "id": 998,
+        "firstName": "Abjure",
+        "lastName": "Giveup",
+        "sentence": "While the church believed that Galileo abjured the heliocentric theory under threat of torture, he later wrote a book clearly supporting the theory.",
+        "date": "21-Nov-2021",
+        "wordCount": 47
+    },
+    {
+        "id": 556,
+        "firstName": "Involved",
+        "lastName": "Complicated",
+        "sentence": "The physics lecture became so involved that the undergraduate's eyes glazed over.",
+        "date": "21-Nov-2021",
+        "wordCount": 48
+    },
+    {
+        "id": 863,
+        "firstName": "Exacerbate",
+        "lastName": "Make worse",
+        "sentence": "Her sleeplessness exacerbated her cold --when she woke up the next day her sinuses where completely blocked.",
+        "date": "21-Nov-2021",
+        "wordCount": 49
+    },
+    {
+        "id": 36,
+        "firstName": "Punctilious",
+        "lastName": "Overly Precise",
+        "sentence": "The colonel was so punctilious about enforcing regulations that men feel compelled to polish even the soles of  their shoes.",
+        "date": "21-Nov-2021",
+        "wordCount": 50
+    }
 ]
